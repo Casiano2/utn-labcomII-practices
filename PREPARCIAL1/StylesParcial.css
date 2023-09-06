@@ -1,0 +1,28 @@
+
+.padreIngenierias{
+    display: flex;
+    padding: 4.5% 7%;
+    
+}
+
+h2{
+    text-align: center;
+}
+.seccionIngenierias{
+    background-color: #333;
+    color: #fff;
+}
+.cajasingenierias{
+    
+    padding: 10px;
+    margin: 15px;
+    
+
+}
+.cajasingenierias:hover {
+    background-color: rgba(250,250,250,.3);
+}
+.padrefooter{
+    display: grid;
+    grid-template-columns: 24% 24% 24% 28%;
+}
