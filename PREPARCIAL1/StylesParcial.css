@@ -26,3 +26,24 @@ h2{
     display: grid;
     grid-template-columns: 24% 24% 24% 28%;
 }
+header{
+    display: flex;
+}
+#encabezado{
+
+    display: flex;
+}
+#encabezado>li{
+    list-style-type: none;
+    margin: 10px;
+}
+a{
+    text-decoration: none;
+}
+.profile{
+    background-color:  black;
+    color: black;
+}
+.profile a svg{
+    width: 30px;
+}
